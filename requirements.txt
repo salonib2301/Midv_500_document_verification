@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python-headless  # For video processing
+Pillow  # For image processing
+scikit-learn  # For machine learning models
+tensorflow  # Optional, if using TensorFlow for deep learning models
+pytorch  # Optional, if using PyTorch for deep learning models
+jupyterlab  # For Jupyter notebooks
