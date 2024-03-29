@@ -1,7 +1,6 @@
 import os
 import json
 import zipfile
-from tqdm import tqdm
 from urllib.request import urlretrieve
 
 def calculate_area(bbox: list) -> int:
